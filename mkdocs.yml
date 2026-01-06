@@ -1,3 +1,6 @@
 site_name: بازسازی پس از بحران
 theme:
   name: readthedocs
+
+nav:
+  - مقدمه: index.md
