@@ -2,5 +2,7 @@ site_name: Recovery Guide
 theme:
   name: readthedocs
 
+docs_dir: '.'
+
 nav:
   - Introduction: index.md
