@@ -10,6 +10,4 @@ mkdocs:
 
 python:
   install:
-    - method: pip
-      packages:
-        - mkdocs
+    - requirements: [] 
