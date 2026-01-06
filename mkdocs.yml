@@ -1,6 +1,6 @@
-site_name: بازسازی پس از بحران
+site_name: Recovery Guide
 theme:
   name: readthedocs
 
 nav:
-  - مقدمه: index.md
+  - Introduction: index.md
